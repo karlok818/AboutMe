@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @karlok818
 - 👀 I’m interested in sports, data science, AI and blockchain
 - 🌱 I’m currently learning business and data science
+- ✔  I’ve experienced in SQL, Python, API, GCP, Docker and Kubernetes
 - 📫 How to reach me [karlok_818@hotmail.com]
 
 <!---
